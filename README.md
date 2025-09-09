@@ -7,7 +7,7 @@ Não é possível adicionar datas ou outras informações extras, apenas o nome 
 
 O foco é na simplicidade e no aprendizado de React com Vite.
 
-##🛠️ Tecnologias usadas
+## 🛠️ Tecnologias usadas
 
 React
 
