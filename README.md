@@ -22,8 +22,8 @@ Tailwind CSS
 
 ## Clone este repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repo.git
-cd nome-do-repo
+git clone https://github.com/GrosskLeo/cp4web.git
+cd cp4web
 
 
 ## Instale as dependências:
