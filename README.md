@@ -1,12 +1,47 @@
-# React + Vite
+📋 To-do List - Vite + React
+🎯 Objetivo da aplicação
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é uma aplicação simples de lista de afazeres (To-do List), que permite ao usuário adicionar tarefas e visualizá-las em uma lista.
 
-Currently, two official plugins are available:
+Não é possível adicionar datas ou outras informações extras, apenas o nome da tarefa.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O foco é na simplicidade e no aprendizado de React com Vite.
 
-## Expanding the ESLint configuration
+🛠️ Tecnologias usadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React
+
+Vite
+
+JavaScript
+
+Tailwind CSS
+ (opcional, se você estiver usando para estilização)
+
+## 🚀 Como executar localmente
+
+# Clone este repositório:
+
+git clone https://github.com/seu-usuario/nome-do-repo.git
+cd nome-do-repo
+
+
+# Instale as dependências:
+
+npm install
+
+
+# Execute o projeto em ambiente de desenvolvimento:
+
+npm run dev
+
+
+# Abra o navegador e acesse:
+
+http://localhost:5173/
+
+# 👥 Equipe
+
+Leonardo Grosskopf (RM:562255)
+
+Thayná Lopes (RM:566349)
