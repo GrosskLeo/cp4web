@@ -1,5 +1,5 @@
 #📋 To-do List - Vite + React
-##🎯 Objetivo da aplicação
+🎯 Objetivo da aplicação
 
 Este projeto é uma aplicação simples de lista de afazeres (To-do List), que permite ao usuário adicionar tarefas e visualizá-las em uma lista.
 
