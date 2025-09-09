@@ -1,5 +1,5 @@
-📋 To-do List - Vite + React
-🎯 Objetivo da aplicação
+#📋 To-do List - Vite + React
+##🎯 Objetivo da aplicação
 
 Este projeto é uma aplicação simples de lista de afazeres (To-do List), que permite ao usuário adicionar tarefas e visualizá-las em uma lista.
 
@@ -7,7 +7,7 @@ Não é possível adicionar datas ou outras informações extras, apenas o nome 
 
 O foco é na simplicidade e no aprendizado de React com Vite.
 
-🛠️ Tecnologias usadas
+##🛠️ Tecnologias usadas
 
 React
 
@@ -20,28 +20,28 @@ Tailwind CSS
 
 ## 🚀 Como executar localmente
 
-# Clone este repositório:
+## Clone este repositório:
 
 git clone https://github.com/seu-usuario/nome-do-repo.git
 cd nome-do-repo
 
 
-# Instale as dependências:
+## Instale as dependências:
 
 npm install
 
 
-# Execute o projeto em ambiente de desenvolvimento:
+## Execute o projeto em ambiente de desenvolvimento:
 
 npm run dev
 
 
-# Abra o navegador e acesse:
+## Abra o navegador e acesse:
 
 http://localhost:5173/
 
-# 👥 Equipe
+## 👥 Equipe
 
-Leonardo Grosskopf (RM:562255)
+Leonardo Grosskopf 
 
-Thayná Lopes (RM:566349)
+Thayná Lopes 
