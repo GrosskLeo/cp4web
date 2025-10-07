@@ -1,24 +1,13 @@
-import { useState } from "react";
-import TodoForm from "./components/TodoForm";
-import TodoList from "./components/TodoList";
+import TaskBoard from "./components/TaskBoard";
 
 function App() {
-  const [todos, setTodos] = useState([]);
-
-  const addTodo = (text) => {
-    setTodos([...todos, { id: Date.now(), text }]);
-  };
-
-  const removeTodo = (id) => {
-    setTodos(todos.filter((todo) => todo.id !== id));
-  };
-
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-gray-50">
-      <h1 className="text-3xl font-bold mb-6 mt-15 text-black">To-do List</h1>
-      <TodoForm addTodo={addTodo} />
-      <div className="w-full max-w-md mt-4">
-        <TodoList todos={todos} removeTodo={removeTodo} />
+    <div className="bg-pink-50 min-h-screen font-sans p-4 sm:p-8">
+      <div className="max-w-6xl mx-auto">
+        <h1 className="text-4xl font-bold text-center text-pink-500 my-8">
+          Quadro de Tarefas
+        </h1>
+        <TaskBoard />
       </div>
     </div>
   );

@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Resolver bug crítico",
+      "priority": "Urgente"
+    },
+    {
+      "id": 2,
+      "text": "Planejar próxima sprint",
+      "priority": "Importante"
+    },
+    {
+      "id": 3,
+      "text": "Atualizar documentação",
+      "priority": "Baixa Prioridade"
+    }
+  ]
+}
